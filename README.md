@@ -5,8 +5,8 @@
 ![img](image/1.png)
 
 <br> <br>
-2 Configuration de fleet <br>
-2.1 Configuration de l'url de fleet<br> 
+## 2 Configuration de fleet <br>
+### 2.1 Configuration de l'url de fleet<br> 
 
 ![img](image/2.png)
 
@@ -21,8 +21,8 @@
 
 <br>
 
-# 4 Agent Elastic sur un poste Linux<br>
-## 1 Installez l'agent Elastic sur un poste Linux (VM ou physique du CloudLab) et connectez-le à votre "fleet server" comme vous l'avez fait pour l'agent Windows. <br>
+## 4 Agent Elastic sur un poste Linux<br>
+### 1 Installez l'agent Elastic sur un poste Linux (VM ou physique du CloudLab) et connectez-le à votre "fleet server" comme vous l'avez fait pour l'agent Windows. <br>
 
 <br>
 
@@ -46,7 +46,7 @@ On voit qu’il remonte bien en “Healty”
 <br> ![img](image/6.png) 
 <br> 
 
-## 2. Installez et visualisez les tableaux de bord produits par l'intégration "audit manager". (auditd ne doit pas être activé sur votre poste Linux).
+### 2. Installez et visualisez les tableaux de bord produits par l'intégration "audit manager". (auditd ne doit pas être activé sur votre poste Linux).
 
 apt-get install auditd <br>
 service auditd status<br>
