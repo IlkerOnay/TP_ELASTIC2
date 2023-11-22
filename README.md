@@ -6,11 +6,11 @@
 
 <br> <br>
 ## 2 Configuration de fleet <br>
-### 2.1 Configuration de l'url de fleet<br> 
+### 2.1 Configuration de l'url de fleet<br> 
 
 ![img](image/2.png)
 
-2.2 Configuration des "outputs" de fleet
+### 2.2 Configuration des "outputs" de fleet
 <br>On récupère nos certificats et les appliquent dans output
 <br>
 ![img](image/3.png) <br>
